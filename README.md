@@ -6,7 +6,7 @@ Send query using POST Method with this structure
 
 ```json
 {
-	"to" 			: [
+	"to" : [
 		{
 			"name" : "Andres Lara",
 			"email": "andres@gmail.com"
@@ -16,7 +16,7 @@ Send query using POST Method with this structure
 			"email": "andres.lara@gmail.com"
 		}
 ],
-	"subject"	: "Test mail ;) ",
+	"subject" : "Test mail ;) ",
 	"message" : "Hi, how r u?, bye!!!!"
 }
 ```
